@@ -81,7 +81,7 @@ var formatNPSUrl = function(t, url){
 
 var boardButtonCallback = function(t){
   return t.popup({
-    title: 'Popup List Example',
+    title: 'EMS Xctamates',
     items: [
       {
         text: 'Open Overlay',
